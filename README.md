@@ -9,3 +9,6 @@ An authenticated administrator can execute arbitrary system commands due to impr
 
 ## Recommendation  
 🔹 **Disable the Compass feature (`/admin/compass`) if not required.**  
+## POC
+![voyager-rce-poc](https://github.com/user-attachments/assets/c22ff2b0-5452-46da-b2c1-07c23e4572f0)
+
